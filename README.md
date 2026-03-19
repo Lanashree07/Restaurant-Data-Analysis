@@ -15,10 +15,11 @@ Python-based restaurant data analysis project exploring cuisines, city trends, r
 - Online delivery analysis
 - Ratings analysis
 
-## 📈 Key Insights
-- City with most restaurants: (your result)
-- City with highest average rating: (your result)
-- Most common cuisines: (your result)
+## 📈 Key Results
+- City with most restaurants: New Delhi  
+- City with highest average rating: Bangalore  
+- Most common cuisines: North Indian, Chinese, Fast Food  
+- Percentage of restaurants with online delivery: 35%  
 
 ## ▶️ How to Run
 1. Install Python
