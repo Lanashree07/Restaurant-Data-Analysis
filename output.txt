@@ -1,0 +1,13 @@
+Top 3 Cuisines:
+Cuisines
+North Indian    3960
+Chinese         2735
+Fast Food       1986
+Name: count, dtype: int64
+
+Percentage of restaurants serving these cuisines:
+Cuisines
+North Indian    41.461627
+Chinese         28.635745
+Fast Food       20.793634
+Name: count, dtype: float64
